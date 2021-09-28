@@ -6,3 +6,5 @@ Modified in git. - change the main.
 Second modified in git. - change the main!
 
 Added in branch E. - Modified in branchE(second commit)
+
+Added in branchF - Modified in branchF(second commit)
