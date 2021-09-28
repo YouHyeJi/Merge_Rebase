@@ -1,3 +1,6 @@
 Added in main branch "Original"
 Modified in branchD.
 Second modifies in branchD.
+
+Modified in git. - change the main.
+Second modified in git. - change the main!
