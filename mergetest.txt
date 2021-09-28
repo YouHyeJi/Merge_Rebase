@@ -4,3 +4,5 @@ Second modifies in branchD.
 
 Modified in git. - change the main.
 Second modified in git. - change the main!
+
+Added in branch E. - Modified in branchE(second commit)
